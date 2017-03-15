@@ -25,4 +25,10 @@
 * Mongolia
 * Russia 
 
-![Yak Photo](yak.png)
+![Yak Photo](yak.jpg)
+
+## Different Yak Species
+English name | שם בעברית
+------------ | -------------
+Domestic Yak | יאק הבית
+Wild Yak | יאק בר
